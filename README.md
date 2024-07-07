@@ -1,4 +1,5 @@
-![Header](/Users/shah/Desktop/github-cover-image.jpg)
+![Header](github-cover-image.jpg)
+
 <h1 align="left">Hi 👋, I'm Muhammad Shah</h1>
 <h3 align="left">A Student at Duke University studying CS and Stats</h3>
 
