@@ -1,3 +1,4 @@
+![Header](file:///Users/shah/Desktop/github_cover_image.png)
 <h1 align="left">Hi 👋, I'm Muhammad Shah</h1>
 <h3 align="left">A Student at Duke University studying CS and Stats</h3>
 
@@ -8,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="mailto:muhammad.shah@duke.edu"><img src="https://img.shields.io/badge/email-%23121011.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/muhammadshah5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/muhammadshah0815"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
