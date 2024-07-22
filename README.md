@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Muhammad Shah</h1>
 <h3 align="left">A Student at Duke University studying CS and Stats</h3>
 
-- 🔭 I’m currently working on **a Chess Engine and a Sentiment Stock Bot**
+- 🔭 I’m currently working on **a fun little bingo game**
 
 - 📫 How to reach me **muhammad.shah@duke.edu**
 
