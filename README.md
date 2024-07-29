@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Shah</h1>
-<h3 align="left">A Student at Duke University studying CS and Stats</h3>
+<h3 align="left">A Student at Duke University studying CS and Stats - currently working as a Software Engineer for 10Pearls!</h3>
 
 - 🔭 I’m currently working on **a fun little bingo game**
 
