@@ -1,6 +1,6 @@
 ![Ghibli Cover](ghibli-github-cover.jpg)
 
-I'm **Muhammad Shah**, a junior at Duke University studying Computer Science and Statistics. Currently, I'm working as a Software Engineer Intern at 10Pearls.
+**I'm *Muhammad Shah*, a junior at Duke University studying Computer Science and Statistics. Currently, I'm working as a Software Engineer Intern at 10Pearls.**
 
 ## Profile
 Property                 | Data  
@@ -12,15 +12,15 @@ Tools                    | ![Git](https://img.shields.io/badge/-Git-05122A?style
 
 ## About Me
 
-- 🔧 What I'm Up To: Right now, I'm working on a fun little bingo game. It's been a great way to experiment with webhooks and an easy hands-on way for my siblings to see the daily games of our childhood *come to life* through code and creativity.
-- 🚀 What I Love: I'm all about using tech to make life better and more interesting. Whether it's making an impact in a team or just a cool side project, I love the process of bringing ideas to life.
-- 🧠 What I'm Learning: I'm exploring the world of AI and machine learning. It's a fascinating field, and I'm excited about the possibilities it holds.
-- 📖 On the Creative Side: I love to read. Recently read The Forty Rules of Love and The Power of Now, where the former revealed the beauty of spiritual love and the latter the peace of living in the present moment.
+- 🔧 **What I'm Up To:** Right now, I'm working on a fun little bingo game. It's been a great way to experiment with webhooks and an easy hands-on way for my siblings to see the daily games of our childhood *come to life* through code and creativity.
+- 🚀 **What I Love:** I'm all about using tech to make life better and more interesting. Whether it's making an impact in a team or just a cool side project, I love the process of bringing ideas to life.
+- 🧠 **What I'm Learning:** I'm exploring the world of AI and machine learning. It's a fascinating field, and I'm excited about the possibilities it holds.
+- 🎨 **On the Creative Side:** I enjoy mixing creativity with technology. Designing user-friendly interfaces and crafting engaging user experiences are my jam.
 
 ## Contact Me
 
-- [Email Badge](https://img.shields.io/badge/-muhammad.shah%40duke.edu-D14836?style=flat&logo=Gmail&logoColor=white)
-- [GitHub Badge](https://img.shields.io/badge/-muhammadshah0815-181717?style=flat&logo=github&logoColor=white)
+- ![Email Badge](https://img.shields.io/badge/-muhammad.shah%40duke.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
+- ![GitHub Badge](https://img.shields.io/badge/-muhammadshah0815-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
