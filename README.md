@@ -1,6 +1,6 @@
 ![Ghibli Cover](ghibli-github-cover.jpg)
 
-## I'm **Muhammad Shah**, a junior at Duke University studying Computer Science and Statistics. Currently, I'm working as a Software Engineer Intern at 10Pearls.
+<p style="font-size: 24px; font-weight: bold; margin-top: 0;">I'm <strong>Muhammad Shah</strong>, a junior at Duke University studying Computer Science and Statistics. Currently, I'm working as a Software Engineer Intern at 10Pearls.</p>
 
 ## Software
 Property                 | Data  
