@@ -15,7 +15,7 @@ Tools                    | ![Git](https://img.shields.io/badge/-Git-05122A?style
 - 🔧 **What I'm Up To:** Right now, I'm working on a fun little bingo game. It's been a great way to experiment with webhooks and an easy hands-on way for my siblings to see the daily games of our childhood *come to life* through code and creativity.
 - 🚀 **What I Love:** I'm all about using tech to make life better and more interesting. Whether it's making an impact in a team or just a cool side project, I love the process of bringing ideas to life.
 - 🧠 **What I'm Learning:** I'm exploring the world of AI and machine learning. It's a fascinating field, and I'm excited about the possibilities it holds.
-- 🎨 **On the Creative Side:** I enjoy mixing creativity with technology. Designing user-friendly interfaces and crafting engaging user experiences are my jam. Oh and I also love to read *(explaining the cover photo).*
+- 🎨 **On the Creative Side:** I enjoy mixing creativity with technology. Designing user-friendly interfaces and crafting engaging user experiences are my jam. Oh and I also love to read.
 
 ### Contact Me
 
